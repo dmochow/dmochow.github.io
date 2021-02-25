@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-description: Blue Ham's research
+title: publications
+description: Dmochowski Lab Publications
 ---
 
 
