@@ -1,6 +1,6 @@
 ---
 layout: page
-title: publications
+title: research
 description: Dmochowski Lab Publications
 ---
 
