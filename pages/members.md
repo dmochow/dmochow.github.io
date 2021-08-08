@@ -8,7 +8,7 @@ description: Dmochowski Lab Members
 
 #### <u>Current Lab Members</u>
 Duc Nguyen.   
-[![Polska]({BASE_PATH}}/assets/wodka.jpg "Shiprock, New Mexico by Beau Rogers")]
+[![Polska]({BASE_PATH}}/assets/wodka.jpeg "Shiprock, New Mexico by Beau Rogers")]
 Kevin Walsh.      
 Amilcar Malave.     
 Andrew Birnbaum.    
