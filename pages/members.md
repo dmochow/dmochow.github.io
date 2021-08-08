@@ -7,12 +7,11 @@ description: Dmochowski Lab Members
 
 
 #### <u>Current Lab Members</u>
-Duc Nguyen
-Kevin Walsh  
-Amilcar Malave 
-Andrew Birnbaum
+Duc Nguyen. 
+Kevin Walsh.   
+Amilcar Malave.  
+Andrew Birnbaum. 
 
-[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
