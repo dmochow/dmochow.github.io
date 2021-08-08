@@ -8,9 +8,9 @@ description: Dmochowski Lab Members
 
 #### <u>Current Lab Members</u>
 Duc Nguyen. 
-Kevin Walsh.   
-Amilcar Malave.  
-Andrew Birnbaum. 
+Kevin Walsh.    
+Amilcar Malave.   
+Andrew Birnbaum.  
 
 
 
