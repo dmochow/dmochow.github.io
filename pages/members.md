@@ -10,8 +10,11 @@ description: Dmochowski Lab Members
 Duc Nguyen.   
 ![The San Juan Mountains are beautiful!](/assets/wodka.jpeg "San Juan Mountains")
 Kevin Walsh.      
+![The San Juan Mountains are beautiful!](/assets/wodka.jpeg "San Juan Mountains")
 Amilcar Malave.     
+![The San Juan Mountains are beautiful!](/assets/wodka.jpeg "San Juan Mountains")
 Andrew Birnbaum.    
+![The San Juan Mountains are beautiful!](/assets/wodka.jpeg "San Juan Mountains")
 
 
 
