@@ -1,30 +1,40 @@
 # This is the default format.
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:month/:day/:title
+#permalink: /:categories/:year/:month/:day/:title
 
-exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md", "Makefile", "Gemfile", "Gemfile.lock"]
-highlighter: rouge
+#exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md", "Makefile", "Gemfile", "Gemfile.lock"]
+#highlighter: rouge
 
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Jacek Dmochowski's Research Page
-author :
-  name : Jacek Dmochowski
-  email : dmochowski@gmail.com
-  github : dmochow
-  twitter : jdmochow
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
-production_url : http://dmochow.github.io
+title: [The title of your site]
+description: [A short description of your site's purpose]
+
+show_downloads: [false]
+google_analytics: [420]
+
+#title : Jacek Dmochowski's Research Page
+#author :
+#  name : Jacek Dmochowski
+#  email : dmochowski@gmail.com
+#  github : dmochow
+#  twitter : jdmochow
+
+#production_url : http://dmochow.github.io
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
-markdown: kramdown
+#markdown: kramdown
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
-JB :
-  version : 0.3.0
+#JB :
+#  version : 0.3.0
 
 
   # All links will be namespaced by BASE_PATH if defined.
@@ -63,33 +73,33 @@ JB :
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
   #
-  archive_path: nil
-  categories_path : nil
-  tags_path : nil
-  atom_path : nil
-  rss_path : nil
+  #archive_path: nil
+  #categories_path : nil
+  #tags_path : nil
+  #atom_path : nil
+  #rss_path : nil
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
   #
-  comments :
-    provider : false
+  #comments :
+  #  provider : false
 
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
   # Set 'provider' to false to turn analytics off globally.
   #
-  analytics :
-    provider : false
+  #analytics :
+  #  provider : false
 
   # Settings for sharing helper.
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
   # Set 'provider' to the sharing provider you want to use.
   # Set 'provider' to false to turn sharing off globally.
   #
-  sharing :
-    provider : false
+  #sharing :
+  #  provider : false
 
   # Settings for all other include helpers can be defined by creating
   # a hash with key named for the given helper. ex:
@@ -100,7 +110,3 @@ JB :
   # Setting any helper's provider to 'custom' will bypass the helper code
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
-  # where [HELPER] is the name of the helper you are overriding.
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
