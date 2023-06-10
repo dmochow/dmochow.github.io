@@ -6,7 +6,8 @@ categories: jekyll update
 ---
 Hear me now mon. You have landed. 
 
-My projects include:
+Link to the [the git repo for the theory of optimal betting][optimal-betting-theory].
 
 [optimal-betting-theory]: https://dmochow.github.io/optimal_betting_theory
+[Granger Components Analysis]: https://dmochow.github.io/gca
 
