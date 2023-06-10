@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Wagwan"
+date:   2023-06-10 09:55:00 -0400
+categories: jekyll update
+---
+Hear me now mon. You have landed. 
+
+My projects include:
+
+[optimal-betting-theory]: https://dmochow.github.io/optimal_betting_theory
+
