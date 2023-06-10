@@ -1,12 +1,16 @@
 ---
 layout: post
-title:  "Wagwan"
+title:  "Optimal betting theory paper"
 date:   2023-06-10 09:55:00 -0400
 categories: jekyll update
 ---
-Hear me now mon. You have landed. 
+I'm happy to announce that my paper "A statistical theory for optimal decision making in sports betting" is about to be 
+published in the peer-reviewed journal PLoS ONE. 
 
-Link to the [the git repo for the theory of optimal betting][optimal-betting-theory].
+This paper is a long-time coming for me, representing a bucket list item of sorts. I have long been fascinated with the 
+statistics of sports betting. 
+
+Link to the the [git repo][optimal-betting-theory] containing source code to reproduce the paper's analysis.
 
 [optimal-betting-theory]: https://github.com/dmochow/optimal_betting_theory
 [Granger Components Analysis]: https://dmochow.github.io/gca
