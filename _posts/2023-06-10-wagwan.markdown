@@ -8,7 +8,8 @@ I'm happy to announce that my paper "A statistical theory for optimal decision m
 published in the peer-reviewed journal PLoS ONE. 
 
 This paper is a long-time coming for me, representing a bucket list item of sorts. I have long been fascinated with the 
-statistics of sports betting. 
+statistics of sports betting. I remember walking to the corner store in Vancouver to pick up the paper menu for "Pro Line" 
+and charting my picks. 
 
 Link to the the [git repo][optimal-betting-theory] containing source code to reproduce the paper's analysis.
 
