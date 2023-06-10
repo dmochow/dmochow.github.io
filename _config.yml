@@ -34,7 +34,9 @@ url: https://dmochow.github.io  # the base hostname and protocol for your site, 
 #baseurl: /REPOSITORY-NAME/
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
+
+#theme: minima
 #theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
