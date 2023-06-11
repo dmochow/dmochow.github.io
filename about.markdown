@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I was born in Gdansk, Poland and lived in the same apartment complex as [Lech Walesa][lech].
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My graduate training is in Electrical and Telecommunications Engineering and was conducted in Canada. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I also received post-doctoral training in Psychology and Biomedical Engineering in the United States.
+
+I am now an Associate Professor of Biomedical Engineering at the [City College of New York][ccny] (currently
+on sabbatical) and the VP of Machine Learning at [Optios][optios]. 
 
 
-[jekyll-organization]: https://github.com/jekyll
+[lech]: https://en.wikipedia.org/wiki/Lech_Wa%C5%82%C4%99sa
+[ccny]: https://www.ccny.cuny.edu/bme
+[optios]: https://optios.ai/
