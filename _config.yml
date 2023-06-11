@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jacek P Dmochowski
+title: wagerwise
 email: info@wagerwise.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Minimal, un-narcissistic web home of Jacek P. Dmochowski.
+  Web home of the wagerwise project
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jdmochow
-github_username:  dmochow
+twitter_username: wagerwise
+github_username:
 
 domain: dmochow.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://dmochow.github.io  # the base hostname and protocol for your site, e.g. http://example.com
