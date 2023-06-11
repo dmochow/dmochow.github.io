@@ -17,8 +17,8 @@ on sabbatical) and the VP of Machine Learning at [Optios][optios].
 My current scientific interests are in the intersection of machine learning and human neuroscience, as well as the
 statistical theory of sports betting markets. 
 
-None of the views or opinions expressed here represent those of the City College of New York, the City University of New York,
-the Research Foundation of the City University of New York, or Optios, Inc. 
+*None of the views or opinions expressed here represent those of the City College of New York, the City University of New York,
+the Research Foundation of the City University of New York, or Optios, Inc.* 
 
 
 [lech]: https://en.wikipedia.org/wiki/Lech_Wa%C5%82%C4%99sa
