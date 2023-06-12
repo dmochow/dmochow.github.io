@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+##
 I was born in Gdansk, Poland and lived in the same apartment complex as [Lech Walesa][lech].
 
 My graduate training is in Electrical and Telecommunications Engineering and was conducted in Canada. I studied the problems of array 
