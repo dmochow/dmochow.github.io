@@ -23,7 +23,7 @@ My current scientific interests are in the intersection of machine learning and 
 statistical theory of sports betting markets. 
 
 ![A cropped headshot of a handsome young lad](/docs/assets/JD_optios_edit.gif)
-# ![A second headshot of a handsome young lad](/docs/assets/JD_nobkgnd.png)
+[comment]: ![A second headshot of a handsome young lad](/docs/assets/JD_nobkgnd.png)
 
 
 
