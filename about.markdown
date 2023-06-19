@@ -23,9 +23,6 @@ My current scientific interests are in the intersection of machine learning and 
 statistical theory of sports betting markets. 
 
 ![A cropped headshot of a handsome young lad](/docs/assets/JD_optios_edit.gif)
-[comment]: ![A second headshot of a handsome young lad](/docs/assets/JD_nobkgnd.png)
-
-
 
 *None of the views or opinions expressed here represent those of the City College of New York, the City University of New York,
 the Research Foundation of the City University of New York, or Optios.* 
