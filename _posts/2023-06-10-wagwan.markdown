@@ -7,7 +7,7 @@ categories: jekyll update
 I'm happy to announce that my paper "A statistical theory for optimal decision making in sports betting" is about to be 
 published in the peer-reviewed journal PLoS ONE. 
 
-![Diagram of sportsbook versus betting public](/docs/assets/margin_artwork.png)
+![Diagram of sportsbook versus betting public](../docs/assets/margin_artwork.png)
 
 This paper is a long-time coming for me, representing a bucket list item of sorts. I have long been fascinated with the 
 statistics of sports betting. I remember walking to the corner store in Vancouver to pick up the paper menu for "Pro Line" 
