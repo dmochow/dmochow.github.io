@@ -12,14 +12,14 @@ published in the peer-reviewed journal PLoS ONE.
 This paper is something like a bucket list item for me, as I have long been fascinated with the 
 math of sports betting. As a child in the early 90s, I remember walking to the corner store to 
 pick up the paper menu for "Sports Action", the provincial sports lottery in British Columbia.
-I suspect that it may be more difficult for children to place wagers in the current times. 
+I suspect that it may be more difficult for children to place wagers in present times. 
 Somewhere along the way, I realized that betting in sports is just a problem of statistical estimation -- albeit a very
-noisy and perhaps even chaotic one. The development presented in the paper came about over many 
+noisy and perhaps even chaotic one. The development presented in the paper came about over several
 years (evenings and weekends) of having the key equations crystallize in my mind. My hope is that
-the paper helps the astute sports bettor and piques the interest of those who liked interesting
+the paper helps the astute sports bettor and piques the interest of those who enjoy interesting
 problems in applied statistics. 
 
-Link to the the [git repo][optimal-betting-theory] containing source code to reproduce the paper's analysis.
+Link to the [git repo][optimal-betting-theory] containing source code to reproduce the paper's analysis.
 
 Link to the paper to appear soon.
 
