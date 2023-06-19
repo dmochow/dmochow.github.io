@@ -2,7 +2,7 @@
 layout: post
 title:  "Optimal betting theory paper"
 date:   2023-06-10 09:55:00 -0400
-categories: jekyll update
+categories: jekyll update ##
 ---
 I'm happy to announce that my paper "A statistical theory for optimal decision making in sports betting" is about to be 
 published in the peer-reviewed journal PLoS ONE. 
