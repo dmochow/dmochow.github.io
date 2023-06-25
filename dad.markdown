@@ -4,7 +4,7 @@ title: Waldemar Dmochowski
 permalink: /dad/
 ---
 
-1947-2010
+## 1947-2010
 
 ![A picture of my loving father](/docs/assets/waldemar-dmochowski-ottawa-on-photos27.jpeg)
 ![Another picture of my loving](/docs/assets/waldemar-dmochowski-ottawa-on-photos26.jpeg)
