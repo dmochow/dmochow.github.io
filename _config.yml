@@ -42,7 +42,7 @@ plugins:
 minima:
   skin: dark
 
-header_files:
+header_pages:
   - about.md
 
 
