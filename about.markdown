@@ -6,7 +6,7 @@ permalink: /about/
 
 I was born in Gdansk, Poland and lived in the same apartment complex as [Lech Walesa][lech].
 
-My Dad was a mechanical engineer and managed to move our family to Canada on a post-doctoral fellowship from the Canadian
+My [Dad](/dad.markdown) was a mechanical engineer and managed to move our family to Canada on a post-doctoral fellowship from the Canadian
 government in the late 1980s. After growing up and doing my graduate studies in electrical engineering in Canada, that same
 post-doctoral fellowship program allowed me to move to the United States thirty years later to pursue my interests in the brain.
 I am now an Associate Professor of Biomedical Engineering at the [City College of New York][ccny] (currently
