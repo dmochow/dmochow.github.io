@@ -9,31 +9,6 @@ Welcome to my _personal_ website.
 
 In the broadest sense, my objective is to contribute content that is beneficial to someone other than me.
 
-I've refrained from having any sort of a web presence over the last several years, taking the
-viewpoint that I would only create a website 
-
-For the last several years, I have not had much of a web presence. This was a conscious decision
-reflecting: 
-- my observations about scientific and research lab websites, and
-- my appraisal of the value of my past research
-
-A former labmate of mine at Stanford University once made what I consider an ingenious comment about scientific 
-journals whose impact factor is less than 1: "they are making science worse!" 
-
-I have a similar view about the various scientific research webpages that are routinely made by principal 
-investigators and postdocs: rarely do I feel that what is shown is serving (or even aiming to serve)
-the readership (that's you!). Rather, they are an expression of research output
-
-Let me be the first to say: I am not the most prolific 
-
-To expand on the latter bullet, 
-
-
-This is a _personal_ website. 
-
-
-
-
 [optimal-betting-theory]: https://github.com/dmochow/optimal_betting_theory
 [Granger Components Analysis]: https://dmochow.github.io/gca
 
