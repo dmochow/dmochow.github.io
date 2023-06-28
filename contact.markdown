@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
+custom_css: form
 ---
 <body>
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mnqkazoz" method="post">
