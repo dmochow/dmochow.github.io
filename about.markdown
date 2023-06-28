@@ -24,7 +24,7 @@ your own work.
 My current scientific interests are in the intersection of machine learning and human neuroscience, as well as the
 statistical theory of sports betting markets. 
 
-![A cropped headshot of a handsome young lad](/docs/assets/JD_optios_edit.gif)
+![A cropped headshot of a handsome young lad](/docs/assets/LKP_2023_jacek-9600.gif)
 
 *None of the views or opinions expressed here represent those of the City College of New York, the City University of New York,
 the Research Foundation of the City University of New York, or Optios.* 
