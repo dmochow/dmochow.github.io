@@ -44,6 +44,7 @@ minima:
 
 header_pages:
   - about.markdown
+  - contact.markdown
 
 
 # Exclude from processing.
