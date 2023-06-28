@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-
+<body>
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mnqkazoz" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
@@ -16,3 +16,4 @@ permalink: /contact/
   </fieldset>
   <input type="submit" value="Submit">
 </form>
+</body>
