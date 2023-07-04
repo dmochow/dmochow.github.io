@@ -1,5 +1,5 @@
 ---
-layout: {% include image-gallery.html folder="/docs/assets" %}
+layout: page
 title: Waldemar Dmochowski
 permalink: /dad/
 ---
@@ -13,3 +13,5 @@ permalink: /dad/
 ![Another picture of my loving father](/docs/assets/waldemar-dmochowski-ottawa-on-photos7.jpeg)
 
 My Dad spent countless hours teaching me math and guiding me through my education.
+
+{% include image-gallery.html folder="/docs/assets" %}
