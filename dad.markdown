@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: {% include image-gallery.html folder="/docs/assets" %}
 title: Waldemar Dmochowski
 permalink: /dad/
 ---
 
 ## 1947-2010
-
-{% include image-gallery.html folder="/docs/assets" %}
 
 ![A picture of my loving father](/docs/assets/waldemar-dmochowski-ottawa-on-photos27.jpeg)
 ![Another picture of my loving](/docs/assets/waldemar-dmochowski-ottawa-on-photos26.jpeg)
