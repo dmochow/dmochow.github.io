@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-custom_css: form
+
 ---
 
 <link rel="stylesheet" type="text/css" href="/docs/assets/css/form.css">
