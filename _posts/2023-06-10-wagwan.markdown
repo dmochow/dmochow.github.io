@@ -26,10 +26,6 @@ Link to a [lay summary][optimal-betting-theory-press].
 Link to the [git repo][optimal-betting-theory] containing source code to reproduce the paper's analysis.
 
 
-
-
-
-
 [optimal-betting-theory]: https://github.com/dmochow/optimal_betting_theory
 [Granger Components Analysis]: https://dmochow.github.io/gca
 [optimal-betting-theory-paper]: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287601
