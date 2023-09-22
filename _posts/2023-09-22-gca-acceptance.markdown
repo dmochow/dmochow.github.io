@@ -5,7 +5,7 @@ date:   2023-09-22 04:20:00 -0400
 categories: jekyll update ####
 ---
 
-![A diagram of Granger Components Analysis](/docs/assets/cartoon-nips-web.png)
+![A diagram of Granger Components Analysis](/docs/assets/cartoon-nips.png)
 
 I learned yesterday that a paper that I have been developing over the last several years has been accepted
 into this year's Advances in Neural Information Processing Systems (NIPS) conference. The paper proposes
