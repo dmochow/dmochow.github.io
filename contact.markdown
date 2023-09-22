@@ -2,10 +2,10 @@
 layout: page
 title: Contact
 permalink: /contact/
-
+custom_css: docs/assets/css/form.css
 ---
 
-<link rel="stylesheet" type="text/css" href="/docs/assets/css/form.css">
+<link rel="stylesheet" type="text/css" href="docs/assets/css/form.css">
 
 <body>
 <!-- modify this form HTML and place wherever you want your form -->
