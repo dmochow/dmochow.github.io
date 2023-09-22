@@ -5,6 +5,8 @@ date:   2023-09-22 04:20:00 -0400
 categories: jekyll update ####
 ---
 
+![A diagram of Granger Components Analysis](/docs/assets/cartoon-nips-web.png)
+
 I learned yesterday that a paper that I have been developing over the last several years has been accepted
 into this year's Advances in Neural Information Processing Systems (NIPS) conference. The paper proposes
 a method, that I am calling "Granger Components Analysis" or GCA for blindly learning the Granger causal
@@ -27,5 +29,5 @@ Title: *Granger Components Analysis: Unsupervised learning of latent temporal de
 
 Abstract: *A new technique for unsupervised learning of time series data based on the notion of Granger Causality is presented. The technique learns pairs of projections of a multivariate data set such that the resulting components -- "driving" and "driven" -- maximize the strength of the Granger Causality between the latent time series (how strongly the past of the driving signal predicts the present of the driven signal). A coordinate descent algorithm that learns pairs of coefficient vectors in an alternating fashion is developed and shown to blindly identify the underlying sources (up to scale) on simulated vector autoregressive (VAR) data. The technique is tested on EEG data from a motor imagery experiment where the resulting components lateralize with the side of the cued hand, and also on fMRI data, where the recovered components express previously reported resting-state networks.*
 
-![A diagram of Granger Components Analysis](/docs/assets/cartoon-nips.png)
+
 
