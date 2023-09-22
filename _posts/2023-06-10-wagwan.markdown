@@ -23,7 +23,7 @@ Link to the [git repo][optimal-betting-theory] containing source code to reprodu
 
 Link to the [paper][optimal-betting-theory-paper].
 
-Link to a [lay summary][optimal-betting-thery-press]. 
+Link to a [lay summary][optimal-betting-theory-press]. 
 
 
 
