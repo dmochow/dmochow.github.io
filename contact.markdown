@@ -22,6 +22,6 @@ custom_css: docs/assets/css/form.css
     <textarea name="message" rows="4" cols="50" ></textarea>
   </label> <br>
   <!-- your other form fields go here -->
-  <button type="submit">Send</button>
+  <button type="submit" id="sendButton">Send</button>
 </form>
 </body>
