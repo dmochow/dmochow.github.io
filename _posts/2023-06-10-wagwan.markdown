@@ -21,13 +21,14 @@ problems in applied statistics.
 
 Link to the [git repo][optimal-betting-theory] containing source code to reproduce the paper's analysis.
 
-Link to the paper to appear soon.
+Link to the [paper][optimal-betting-theory-paper].
 
-Link to press to appear soon. 
+Link to a [lay summary][optimal-betting-thery-press]. 
 
 
 
 
 [optimal-betting-theory]: https://github.com/dmochow/optimal_betting_theory
 [Granger Components Analysis]: https://dmochow.github.io/gca
-
+[optimal-betting-theory-paper]: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287601
+[optimal-betting-theory-press]: https://phys.org/news/2023-06-science-sports.html
