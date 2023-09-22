@@ -67,3 +67,23 @@ form [type="reset"]:focus {
 form select {
   text-transform: none;
 }
+
+#sendButton {
+  /* Background color */
+  background-color: #007bff; /* Use your preferred color */
+
+  /* Text color */
+  color: #fff; /* White text on blue background */
+
+  /* Padding and border */
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px; /* Rounded corners */
+
+  /* Hover effect */
+  transition: background-color 0.3s ease;
+}
+
+#sendButton:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}

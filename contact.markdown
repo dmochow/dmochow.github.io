@@ -4,6 +4,9 @@ title: Contact
 permalink: /contact/
 custom_css: form
 ---
+
+<link rel="stylesheet" type="text/css" href="/docs/assets/css/form.css">
+
 <body>
 <!-- modify this form HTML and place wherever you want your form -->
 <form
@@ -15,9 +18,9 @@ custom_css: form
     <input type="email" size="50" name="email">
   </label> <br> <br>
   <label>
-    Message:
+    Message: <br>
     <textarea name="message" rows="4" cols="50" ></textarea>
-  </label>
+  </label> <br>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
