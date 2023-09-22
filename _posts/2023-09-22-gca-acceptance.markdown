@@ -9,7 +9,7 @@ categories: jekyll update ####
 
 I learned yesterday that a paper that I have been developing over the last several years has been accepted
 into this year's Advances in Neural Information Processing Systems (NIPS) conference. The paper proposes
-a method, that I am calling "Granger Components Analysis" or GCA for blindly learning the Granger causal
+a method -- "Granger Components Analysis" (GCA) -- for blindly learning the Granger causal
 relationships in your data. You can think of it as a version of Principal Components Analysis (PCA) where you are:
 - Not learning components but rather *pairs* of components.
 - The criterion that is being maximized is the strength of the Granger Causality from one signal to the other in the component pair.
@@ -23,7 +23,7 @@ generating signals that are statistically independent, GCA seeks to find precise
 dependencies in your data. The types of dependencies that it learns are again of the Granger Causal form,
 where the past of one signal forecasts the present of another. 
 
-For now, I am posting the title and abstract of the paper below, as well as one of the figures in the manuscript.
+For now, I am posting the title and abstract of the paper below.
 
 Title: *Granger Components Analysis: Unsupervised learning of latent temporal dependencies*
 
