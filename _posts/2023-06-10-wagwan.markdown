@@ -19,11 +19,13 @@ years (evenings and weekends) of having the key equations crystallize in my mind
 the paper helps the astute sports bettor and piques the interest of those who enjoy interesting
 problems in applied statistics. 
 
-Link to the [git repo][optimal-betting-theory] containing source code to reproduce the paper's analysis.
-
 Link to the [paper][optimal-betting-theory-paper].
 
 Link to a [lay summary][optimal-betting-theory-press]. 
+
+Link to the [git repo][optimal-betting-theory] containing source code to reproduce the paper's analysis.
+
+
 
 
 
