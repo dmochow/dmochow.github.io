@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "GCA video preview and manuscript
+date:   2023-11-13 04:20:00 -0400
+categories: jekyll update ####
+---
+
+Below is a short video that I recorded for the NIPS conference describing the main ideas behind the paper.
+
+![GCA video preview](https://recorder-v3.slideslive.com/#/share?share=87852&s=ec92c8d9-b80f-4f5f-a3e5-ed84a3c69726)
+
+The manuscript is now available to read [here](https://openreview.net/pdf?id=wqIm0Qsgy0).
